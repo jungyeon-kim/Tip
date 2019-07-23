@@ -3,3 +3,5 @@
 
 ios::sync_with_stdio(false);
 cin.tie(nullptr);
+
+// cout.precision():	출력되는 소수점 늘리기
