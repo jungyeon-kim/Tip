@@ -1,0 +1,5 @@
+Ctrl + Z			이전으로
+Ctrl + Shift + Z		이전의 반대로
+F12			선언 or 정의 따라가기
+Shift + F12		해당 참조 모아보기
+Ctrl + .			정의부 만들기
