@@ -2,3 +2,6 @@ ignore파일 동작이 안될 때)
 	git rm -r --cached .
 	git add .
 	git commit
+
+reset 후 강제 commit)
+	git push -f origin master
