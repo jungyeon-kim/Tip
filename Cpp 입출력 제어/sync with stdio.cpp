@@ -5,3 +5,5 @@ ios::sync_with_stdio(false);
 cin.tie(nullptr);
 
 // cout.precision():	출력되는 소수점 늘리기
+
+// scanf("%1d", &변수):	연속된 정수 하나씩 입려받기
